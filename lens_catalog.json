@@ -39,7 +39,7 @@
     "id": 5,
     "lens_type": "Single Vision",
     "lens_product": "Eye Conic Dual ",
-    "starting_price": 1100.0,
+    "starting_price": 850.0,
     "lens_image": "lens_4c57ad4b42214315b7b71892ad8fe528.jpg",
     "features": "",
     "created_at": "2026-09-29 07:57:34.454817"
@@ -75,7 +75,7 @@
     "id": 9,
     "lens_type": "Single Vision",
     "lens_product": "Night Drive Super 1.56",
-    "starting_price": 1700.0,
+    "starting_price": 1500.0,
     "lens_image": "lens_e624ba5bddaf4a43b0c7397098556a3e.jpg",
     "features": "",
     "created_at": "2026-10-01 10:50:13.781171"
@@ -85,7 +85,7 @@
     "lens_type": "Single Vision",
     "lens_product": "Zion Dual",
     "starting_price": 1200.0,
-    "lens_image": "lens_75117ae5b73247289e8b95f9a4285c36.jpg",
+    "lens_image": "lens_24b46877f3274f1b90eaa0fb70a78b52.jpg",
     "features": "Green + Blue Coating",
     "created_at": "2026-10-01 10:52:42.745076"
   },
@@ -106,5 +106,104 @@
     "lens_image": "lens_5db3734556d84bacb8318f4b5eac9115.jpg",
     "features": "",
     "created_at": "2026-10-01 10:54:14.495311"
+  },
+  {
+    "id": 13,
+    "lens_type": "Single Vision",
+    "lens_product": "Ruby 1.56",
+    "starting_price": 300.0,
+    "lens_image": "lens_a244d379e3fc4066a3f7376cc3a7ba2b.jpg",
+    "features": "Power Range (-6.00/-2.00)",
+    "created_at": "2026-10-02 08:22:11.845498"
+  },
+  {
+    "id": 14,
+    "lens_type": "Single Vision",
+    "lens_product": "Poly Twin Steel",
+    "starting_price": 1150.0,
+    "lens_image": "lens_ab8efe78dbe542ebafddd35af74daba0.jpg",
+    "features": "Three Pic (Rimless Freme) Special Anti-Break Lens\nPower Range (-6.00/-2.00)\n",
+    "created_at": "2026-10-02 08:25:59.641892"
+  },
+  {
+    "id": 15,
+    "lens_type": "Single Vision",
+    "lens_product": "Poly Night Steel",
+    "starting_price": 1450.0,
+    "lens_image": "lens_acba6686945e4dc3abadab091d4536d2.jpg",
+    "features": "Three Pic (Rimless Freme) Special Anti-Break Lens\nPower Range (-6.00/-2.00)",
+    "created_at": "2026-10-02 08:26:58.936732"
+  },
+  {
+    "id": 16,
+    "lens_type": "Single Vision",
+    "lens_product": "Poly Mari Steel",
+    "starting_price": 1550.0,
+    "lens_image": "lens_a945c1c658594a51af4111616ccf9435.jpg",
+    "features": "Three Pic (Rimless Freme) Special Anti-Break Lens\nPower Range (-6.00/-2.00)",
+    "created_at": "2026-10-02 08:28:17.167933"
+  },
+  {
+    "id": 17,
+    "lens_type": "Single Vision",
+    "lens_product": "Daimond PG",
+    "starting_price": 800.0,
+    "lens_image": "lens_136077184406478c8ee2851044b61349.jpg",
+    "features": "Sunglasses Lens, Use Day + Night Lens\nPower Range (-6.00/-2.00)",
+    "created_at": "2026-10-02 08:29:59.270567"
+  },
+  {
+    "id": 18,
+    "lens_type": "Single Vision",
+    "lens_product": "Diamond PG Green",
+    "starting_price": 1020.0,
+    "lens_image": "lens_078ab60759944d9983bc293636299e84.jpg",
+    "features": "Sunglasses Lens, Use Day+Night Lens\nAnti Reflection Coating - Green Coat\nPower Range (-6.00/-2.00)",
+    "created_at": "2026-10-02 08:32:55.899741"
+  },
+  {
+    "id": 19,
+    "lens_type": "Single Vision",
+    "lens_product": "Optimax PG Mari-Blue",
+    "starting_price": 1800.0,
+    "lens_image": "lens_6a1508fc818348a485a2e6c01d5f7f9a.jpg",
+    "features": "Sunglasses Lens, Use Day+Night Lens\nSilky Smooth Coating\nPower Range (-6.00/-2.00)",
+    "created_at": "2026-10-02 08:55:55.756913"
+  },
+  {
+    "id": 20,
+    "lens_type": "Single Vision",
+    "lens_product": "Optimax PG Night Drive",
+    "starting_price": 3200.0,
+    "lens_image": "lens_5e66cc743cc14e72a80c613ad9cd705c.jpg",
+    "features": "Index 1.61, Thine Lens\nSunglasses Lens, Use Day+Night Lens\nSilky Smooth Coating\nPower Range (-10.00/-2.00)",
+    "created_at": "2026-10-02 08:59:11.938876"
+  },
+  {
+    "id": 21,
+    "lens_type": "Single Vision",
+    "lens_product": "Optimax PG Green",
+    "starting_price": 1550.0,
+    "lens_image": "lens_24dbb5891b164a20842b9999409753a7.jpg",
+    "features": "Sunglasses Lens, Use Day+Night Lens\nSilky Smooth Coating\nPower Range (-6.00/-2.00)",
+    "created_at": "2026-10-02 09:00:12.929708"
+  },
+  {
+    "id": 22,
+    "lens_type": "Single Vision",
+    "lens_product": "Optimax Gold PG",
+    "starting_price": 2200.0,
+    "lens_image": "lens_abd9f7f9a7a2461e9ebef62ac7e3b39c.jpg",
+    "features": "Sunglasses Lens, Use Day+Night Lens\nSilky Smooth Coating\nPower Range (-6.00/-2.00)",
+    "created_at": "2026-10-02 09:01:49.184696"
+  },
+  {
+    "id": 23,
+    "lens_type": "Single Vision",
+    "lens_product": "Tulip Hi Power Lens",
+    "starting_price": 700.0,
+    "lens_image": "lens_c092fed0d12a4b61817056c7db2f4570.jpg",
+    "features": "Index 1.56\nHi Power Lens \nPower Range (-10.00/-2.00)",
+    "created_at": "2026-10-02 09:03:41.391328"
   }
 ]
