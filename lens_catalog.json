@@ -5,16 +5,16 @@
     "lens_product": "White Lens HC 1.56",
     "starting_price": 300.0,
     "lens_image": "lens_a6218dc241584592bd54abac26ce6e67.jpg",
-    "features": "-4.00 Sph          Rs. 300 \t-4.00/-2.00 \tRs. 350\n-8.00/-2.0\tRs. 450\t\n\t\n",
+    "features": "-4.00 Sph\t\tRs. 300\n-4.00/-2.00\t\tRs. 350\n-8.00/-2.00\t\tRs. 450\n+6.00 Sph, +4.00/+2.00 \tRs. 550\n\t\n",
     "created_at": "2026-09-29 06:17:57.310830"
   },
   {
     "id": 2,
     "lens_type": "Single Vision",
-    "lens_product": "Protector 1.67",
-    "starting_price": 1800.0,
+    "lens_product": "Protector 1.67 ARC Green",
+    "starting_price": 1450.0,
     "lens_image": "lens_3fd610a3de4444768f9c71aaf1a557bc.jpg",
-    "features": "Ultra Thin Lenses Sutable for Light and Trendy Fremes, It gives Almost 100% UV Protectection. High Power Lenses\n",
+    "features": "-10.00/-2.00\t\tRs. 1450\n-15.00 Sph, -12.00/-2.00 \tRs.1650\n-10.00/-4.00 \t\tRs. 2200\n-20.00/-4.00\t\tRs. 3800",
     "created_at": "2026-09-29 06:28:26.767016"
   },
   {
