@@ -21,54 +21,54 @@
     "id": 3,
     "lens_type": "Single Vision",
     "lens_product": "Eye Conic Crystal Blue",
-    "starting_price": 900.0,
+    "starting_price": 750.0,
     "lens_image": "lens_f692959cd1734e1a8e0f01aa74347b52.jpg",
-    "features": "",
+    "features": "-6.00 Sph\tRs. 700\n-6.00/-2.00\tRs. 750",
     "created_at": "2026-09-29 06:30:51.714464"
   },
   {
     "id": 4,
     "lens_type": "Single Vision",
     "lens_product": "Eye Conic Magenta Night Drive",
-    "starting_price": 1100.0,
+    "starting_price": 750.0,
     "lens_image": "lens_6827fb14f51941918adc8702533c68d1.jpg",
-    "features": "",
+    "features": "-6.00 Sph\tRs. 750\n-6.00/-2.00\tRs. 800\n+3.00/+1.00\tRs. 850\n+1.75/-2.00\tRs. 900\n+2.00/+2.00\tRs. 950",
     "created_at": "2026-09-29 07:56:22.825793"
   },
   {
     "id": 5,
     "lens_type": "Single Vision",
-    "lens_product": "Eye Conic Dual ",
-    "starting_price": 850.0,
+    "lens_product": "Eye Conic Dual B B",
+    "starting_price": 800.0,
     "lens_image": "lens_4c57ad4b42214315b7b71892ad8fe528.jpg",
-    "features": "",
+    "features": "-6.00/-2.00\t\tRs. 800\n+3.00/+1.00, +1.75/-2.00\tRs. 950\n-10./-2., -8./-4., +3.50/-4.\tRs. 1150\n-6./-6., +5.50/-6.0\tRs. 1600\n",
     "created_at": "2026-09-29 07:57:34.454817"
   },
   {
     "id": 6,
     "lens_type": "Single Vision",
     "lens_product": "Blue Gaurd Green ",
-    "starting_price": 750.0,
+    "starting_price": 700.0,
     "lens_image": "lens_c1717026e1f14c5e9c8b72469423b323.jpg",
-    "features": "Super Hydrofobic Green Coating \n",
+    "features": "-4.00 Sph\t\tRs. 700\n-6.00/-2.00\t\tRs .750\n+1.75/-2., +3.0/+2.0\tRs. 950\n-6.00/-4.00\t\tRs. 1150\n+3.75/-4.00\t\tRs. 1300\n\n",
     "created_at": "2026-09-30 13:40:56.976441"
   },
   {
     "id": 7,
     "lens_type": "Single Vision",
-    "lens_product": "Mari Blue",
+    "lens_product": "Mari Blue 1.56",
     "starting_price": 900.0,
     "lens_image": "lens_968f03ab55f948f883d9f726aed3fee5.jpg",
-    "features": "These Top Quality Premium Product\n",
+    "features": "-4.00 Sph\t\tRs. 900\n-6.00/-2.00\t\tRs. 950\n+1.75/-2.0, +3.0/+2.0\tRs. 1250\n-6.0/-4.0, -10.0/-2.0\tRs. 1700\n+3.75/-4.00\t\tRs. 1950\n",
     "created_at": "2026-09-30 13:45:59.836614"
   },
   {
     "id": 8,
     "lens_type": "Single Vision",
-    "lens_product": "Golden Mari ",
-    "starting_price": 1200.0,
+    "lens_product": "Golden Mari 1.56",
+    "starting_price": 1000.0,
     "lens_image": "lens_495463ba4bad46b8ae9fb300305e481b.jpg",
-    "features": "Anti Reflection, Advanced Anti-scratch Coating and Night drive protection for glare-free, comfortable vision\n",
+    "features": "-4.00 Sph\t\tRs. 1000\n-6.00/-2.00\t\tRs. 1050\n-8.00/-2.00\t\tRs. 1250\t\t\n+1.75/-2.00\t\tRs. 1550\n+3.00/+2.00\t\tRs. 1650\n-6.00/-4.00\t\tRs. 1900\n+3.75/-4.00\t\tRs. 2100",
     "created_at": "2026-09-30 13:50:48.981588"
   },
   {
