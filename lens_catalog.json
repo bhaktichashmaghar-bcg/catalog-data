@@ -156,9 +156,90 @@
     "id": 18,
     "lens_type": "Single Vision",
     "lens_product": "Poly Mari Gold",
-    "starting_price": 1200.0,
+    "starting_price": 1400.0,
     "lens_image": "lens_40e47138bae14d00b8b204eaa412a292.jpg",
-    "features": "-6.00/-2.00\t\tRs. 1200\n-8.00/-2.00, -6.00/-4.00\tRs. 2100\n+3.00/+1.00\t\tRs. 2050",
+    "features": "-6.00/-2.00\t\tRs. 1400\n-8.00/-2.00, -6.00/-4.00\tRs. 2200\n+3.00/+1.00\t\tRs. 2150",
     "created_at": "2026-10-21 06:00:57.206496"
+  },
+  {
+    "id": 19,
+    "lens_type": "Single Vision",
+    "lens_product": "PG HC 1.56",
+    "starting_price": 600.0,
+    "lens_image": "lens_56d6f3ee14f6468bb1b8693da05d0cf7.jpg",
+    "features": "-8.00/-2.00\t\tRs. 600\n+4.0/+2.0, +1.75/-2.0\tRs. 800\n-8.0/-4.0, +3.50/-4.0\tRs. 1000\t\n-10.0/-2.0\t\tRs. 1200\n-6.0/-6.0, +5.50/-6.00\tRs. 1600\n-14.00/-2.00\t\tRs. 1800",
+    "created_at": "2026-10-22 05:04:42.473473"
+  },
+  {
+    "id": 20,
+    "lens_type": "Single Vision",
+    "lens_product": "PG HMC Green Coat",
+    "starting_price": 800.0,
+    "lens_image": "lens_2738e253376448419b53f657b90e94c3.jpg",
+    "features": "-8.00/-2.00\t\tRs. 800\n+4.0/+2.0, +1.75/-2.0\tRs. 1000\n-8.0/-4.0, +3.50/-4.0\tRs. 1200\t\n-10.0/-2.0\t\tRs. 1500\n-6.0/-6.0, +5.50/-6.00\tRs. 1900\n-14.00/-2.00\t\tRs. 2100",
+    "created_at": "2026-10-22 05:15:11.496373"
+  },
+  {
+    "id": 21,
+    "lens_type": "Single Vision",
+    "lens_product": "PG HMC Blue Coat",
+    "starting_price": 1100.0,
+    "lens_image": "lens_414478f0ffe54abab5903d3e8d9251b3.jpg",
+    "features": "-6.00/-2.00\t\tRs. 1100\n+3.00/+1.00, +1.75/-2.00\tRs. 1300\n-6.00/-4.00\t\tRs. 1600\n+3.50/-4.00\t\tRs. 1900\n",
+    "created_at": "2026-10-22 05:40:50.677629"
+  },
+  {
+    "id": 22,
+    "lens_type": "Single Vision",
+    "lens_product": "Optimax PG Blue Cut Green",
+    "starting_price": 1400.0,
+    "lens_image": "lens_f1dee00558da4f8d80ac18d65d6b747a.jpg",
+    "features": "-6.00/-2.00\t\tRs. 1400\n-8.00/-2.00\t\tRs. 1600\n+1.75/-2.00, +3.00/+1.00\tRs. 1750\n-6.00/-4.00\t\tRs. 1950\n+3.75/-4.00\t\tRs. 2100",
+    "created_at": "2026-10-22 05:45:52.060792"
+  },
+  {
+    "id": 23,
+    "lens_type": "Single Vision",
+    "lens_product": "Optimax PG Blue Cut Blue",
+    "starting_price": 1600.0,
+    "lens_image": "lens_57f42e17f30143ff9c45bfc590431ebd.jpg",
+    "features": "-6.00/-2.00\t\tRs. 1600\n-8.00/-2.00\t\tRs. 1750\n+1.75/-2.00, +3.00/+1.00\tRs. 1950\n-6.00/-4.00\t\tRs. 2150\n+3.75/-4.00\t\tRs. 2300",
+    "created_at": "2026-10-22 05:47:01.154525"
+  },
+  {
+    "id": 24,
+    "lens_type": "Single Vision",
+    "lens_product": "Optimax PG Blue Cut Mari Blue",
+    "starting_price": 1700.0,
+    "lens_image": "lens_236b0871d43b4fcdbbd7f941bc61fdd2.jpg",
+    "features": "-6.00/-2.00\t\tRs. 1700\n-8.00/-2.00\t\tRs. 1900\n+1.75/-2.00, +3.00/+1.00\tRs. 2200\n-6.00/-4.00, Cross -4.00\tRs. 2600",
+    "created_at": "2026-10-22 05:54:04.489216"
+  },
+  {
+    "id": 25,
+    "lens_type": "Single Vision",
+    "lens_product": "Optimax PG Blue Cut Gold",
+    "starting_price": 1800.0,
+    "lens_image": "lens_d96642ee5e6842d08152d5b5fd6316d3.jpg",
+    "features": "-6.00/-2.00\t\tRs. 1800\n-8.00/-2.00\t\tRs. 2000\n-6.00/-4.00\t\tRs. 2400\n+3.00/+1.00\t\tRs. 2100",
+    "created_at": "2026-10-22 05:56:51.887124"
+  },
+  {
+    "id": 26,
+    "lens_type": "Single Vision",
+    "lens_product": "Optimax PG Night Drive Magenta",
+    "starting_price": 3100.0,
+    "lens_image": "lens_5b47231ed6834425a419871f8a60c93c.jpg",
+    "features": "-10.00/-2.00\t\tRs. 3100\n+3.00 Sph, +2.00 Cyl\n+2.00/+1.00\nCross -2.00\t",
+    "created_at": "2026-10-22 06:09:24.170944"
+  },
+  {
+    "id": 27,
+    "lens_type": "Single Vision",
+    "lens_product": "Chroma PG 1.67 Mari Blue",
+    "starting_price": 3800.0,
+    "lens_image": "lens_fd61ff4387bc4507b4db1381e644a8d9.jpg",
+    "features": "-10.00/-2.00\t\tRs. 3800\n-15.00 Sph, -12.00/-2.00\tRs. 4300\n-10.00/-4.00\t\tRs. 5300\n-20.00 Sph, -16.00/-2.00\tRs. 7500\n-14.00/-4.00\t\tRs. 8100",
+    "created_at": "2026-10-22 06:14:04.168236"
   }
 ]
