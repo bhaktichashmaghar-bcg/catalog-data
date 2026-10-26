@@ -277,5 +277,23 @@
     "lens_image": "lens_15e2e060768f40d8bc707f662a428baa.jpg",
     "features": "Sph +3.00\t\tRs. 900\nSph -3.00\t\tRs. 1100\nCyl +2.00x180, -2.00x90\tRs. 1200\nRev. Cyl +2.0x90, -2.0x180\tRs. 1300\n\n",
     "created_at": "2026-10-26 10:43:10.482902"
+  },
+  {
+    "id": 32,
+    "lens_type": "Bifocal KT",
+    "lens_product": "PG HC KT 1.56",
+    "starting_price": 700.0,
+    "lens_image": "lens_7c47897537684b24b1b6ac8053ee6d3b.jpg",
+    "features": "Sph +3.00, -3.00\tRs. 700\nSph -+4.00, -+5.00\tRs. 800\nCyl +3.00x180, -3.00x90\tRs. 800\nRev. Cyl +2.0x90, -2.0x180\tRs. 900\nSpl.Cyl +2.00, -2.00\tRs. 800\nComp. +3.0/+1.0, +2.0/+2.0\tRs. 1000\nComp. -3.0/-1.0, -2.0/-2.0\tRs. 1000\nCC +2.50/-3.00 x 90\tRs. 1100",
+    "created_at": "2026-10-26 11:03:55.728300"
+  },
+  {
+    "id": 33,
+    "lens_type": "Bifocal KT",
+    "lens_product": "PG HMC Green KT",
+    "starting_price": 900.0,
+    "lens_image": "lens_2f2036822f8b48a894d9023277b7461a.jpg",
+    "features": "Sph +3.00, -3.00\tRs. 900\nCyl +2.00x180, -2.00x90\tRs. 1100\nRev. Cyl +2.0x90, -2.0x180\tRs. 1100\nComp.  +2.0/+1.0\tRs. 1400\n\nCC +2.50/-3.00 x 90\tRs. 1100",
+    "created_at": "2026-10-26 11:39:02.191219"
   }
 ]
