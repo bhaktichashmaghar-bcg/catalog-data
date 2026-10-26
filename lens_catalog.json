@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1,
+    "lens_type": "Single Vision",
+    "lens_product": "White Lens HC 1.56",
+    "starting_price": 300.0,
+    "lens_image": "lens_a6218dc241584592bd54abac26ce6e67.jpg",
+    "features": "-4.00 Sph\t\tRs. 300\n-4.00/-2.00\t\tRs. 350\n-8.00/-2.00\t\tRs. 450\n+6.00 Sph, +4.00/+2.00 \tRs. 550\n\t\n",
+    "created_at": "2026-09-29 06:17:57.310830"
+  },
+  {
+    "id": 2,
+    "lens_type": "Single Vision",
+    "lens_product": "Protector 1.67 ARC Green",
+    "starting_price": 1450.0,
+    "lens_image": "lens_3fd610a3de4444768f9c71aaf1a557bc.jpg",
+    "features": "-10.00/-2.00\t\tRs. 1450\n-15.00 Sph, -12.00/-2.00 \tRs.1650\n-10.00/-4.00 \t\tRs. 2200\n-20.00/-4.00\t\tRs. 3800",
+    "created_at": "2026-09-29 06:28:26.767016"
+  },
+  {
+    "id": 3,
+    "lens_type": "Single Vision",
+    "lens_product": "Eye Conic Crystal Blue",
+    "starting_price": 750.0,
+    "lens_image": "lens_f692959cd1734e1a8e0f01aa74347b52.jpg",
+    "features": "-6.00 Sph\tRs. 700\n-6.00/-2.00\tRs. 750",
+    "created_at": "2026-09-29 06:30:51.714464"
+  },
+  {
+    "id": 4,
+    "lens_type": "Single Vision",
+    "lens_product": "Eye Conic Magenta Night Drive",
+    "starting_price": 850.0,
+    "lens_image": "lens_6827fb14f51941918adc8702533c68d1.jpg",
+    "features": "-6.00/-2.00\tRs. 850\n+3.00/+1.00\tRs. 1050\n+1.75/-2.00\tRs. 950\n+2.00/+2.00\tRs. 1000",
+    "created_at": "2026-09-29 07:56:22.825793"
+  },
+  {
+    "id": 5,
+    "lens_type": "Single Vision",
+    "lens_product": "Eye Conic Dual B B",
+    "starting_price": 800.0,
+    "lens_image": "lens_4c57ad4b42214315b7b71892ad8fe528.jpg",
+    "features": "-6.00/-2.00\t\tRs. 800\n+3.00/+1.00, +1.75/-2.00\tRs. 950\n-10./-2., -8./-4., +3.50/-4.\tRs. 1150\n-6./-6., +5.50/-6.0\tRs. 1600\n",
+    "created_at": "2026-09-29 07:57:34.454817"
+  },
+  {
+    "id": 6,
+    "lens_type": "Single Vision",
+    "lens_product": "Blue Gaurd Green ",
+    "starting_price": 700.0,
+    "lens_image": "lens_c1717026e1f14c5e9c8b72469423b323.jpg",
+    "features": "-4.00 Sph\t\tRs. 700\n-6.00/-2.00\t\tRs .750\n+1.75/-2., +3.0/+2.0\tRs. 950\n-6.00/-4.00\t\tRs. 1150\n+3.75/-4.00\t\tRs. 1300\n\n",
+    "created_at": "2026-09-30 13:40:56.976441"
+  },
+  {
+    "id": 7,
+    "lens_type": "Single Vision",
+    "lens_product": "Mari Blue 1.56",
+    "starting_price": 900.0,
+    "lens_image": "lens_968f03ab55f948f883d9f726aed3fee5.jpg",
+    "features": "-4.00 Sph\t\tRs. 900\n-6.00/-2.00\t\tRs. 950\n+1.75/-2.0, +3.0/+2.0\tRs. 1250\n-6.0/-4.0, -10.0/-2.0\tRs. 1700\n+3.75/-4.00\t\tRs. 1950\n",
+    "created_at": "2026-09-30 13:45:59.836614"
+  },
+  {
+    "id": 8,
+    "lens_type": "Single Vision",
+    "lens_product": "Golden Mari 1.56",
+    "starting_price": 1000.0,
+    "lens_image": "lens_495463ba4bad46b8ae9fb300305e481b.jpg",
+    "features": "-4.00 Sph\t\tRs. 1000\n-6.00/-2.00\t\tRs. 1050\n-8.00/-2.00\t\tRs. 1250\t\t\n+1.75/-2.00\t\tRs. 1550\n+3.00/+2.00\t\tRs. 1650\n-6.00/-4.00\t\tRs. 1900\n+3.75/-4.00\t\tRs. 2100",
+    "created_at": "2026-09-30 13:50:48.981588"
+  },
+  {
+    "id": 9,
+    "lens_type": "Single Vision",
+    "lens_product": "Night Drive Super 1.56",
+    "starting_price": 1250.0,
+    "lens_image": "lens_661f951077dc4910891f891a758caca0.jpg",
+    "features": "-4.00 Sph \t\tRs. 1250\n-6.00/-2.00\t\tRs. 1450\t\n-8.00/-2.00\t\tRs. 1750\n+1.75/-2.0, +3.00/+1.00\tRs. 2150\n-6.00/-4.00\t\tRs. 2550\n+3.75/-4.00\t\tRs. 2750",
+    "created_at": "2026-10-01 10:50:13.781171"
+  },
+  {
+    "id": 10,
+    "lens_type": "Single Vision",
+    "lens_product": "Zion Dual Majestic 1.56",
+    "starting_price": 800.0,
+    "lens_image": "lens_79cbc578132844c8877b06f2b61f9a3b.jpg",
+    "features": "-6.00/-2.00\t\tRs. 800\n-8.00/-2.00\t\tRs. 1100\n+1.75/-2.00, +3.00/+1.00\tRs. 1200\n-6.00/-4.00, -10.00/-2.00\tRs. 1500\n+3.75/-4.00\t\tRs. 1650",
+    "created_at": "2026-10-01 10:52:42.745076"
+  },
+  {
+    "id": 11,
+    "lens_type": "Single Vision",
+    "lens_product": "Zion Dual MR8 1.61",
+    "starting_price": 1200.0,
+    "lens_image": "lens_384d43bfd41d4aeba4c1c93d1458ef9f.jpg",
+    "features": "-6.00/-2.00\tRs. 1200\n-10.00/-2.00\tRs. 1800\n-6.00/-4.00\tRs. 2100\n-8.00/-4.00\tRs. 2450",
+    "created_at": "2026-10-21 05:14:03.292782"
+  },
+  {
+    "id": 12,
+    "lens_type": "Single Vision",
+    "lens_product": "Zion Dual MR8 1.67",
+    "starting_price": 2800.0,
+    "lens_image": "lens_6a344810e5354230ababcf47828bdc38.jpg",
+    "features": "-10.00/-2.00\t\tRs. 2800\n-15 Sph, -12.00/-2.00\tRs. 3100\n-10.00/-4.00\t\tRs. 3650\n-20.00/-4.00\t\tRs. 7500",
+    "created_at": "2026-10-21 05:18:30.392300"
+  },
+  {
+    "id": 13,
+    "lens_type": "Single Vision",
+    "lens_product": "Poly Bullet Green Coat",
+    "starting_price": 850.0,
+    "lens_image": "lens_8ec99409b0d248d7a3f45e7ea4af698a.jpg",
+    "features": "-6.00/-2.00\t\tRs. 850\n-8.00/-2.00\t\tRs. 1050\n+1.75/-2.00, +3.00/+2.00\tRs. 1100\n-6.00/-4.00\t\tRs. 1450\n+3.75/-4.00\t\tRs. 1600\t",
+    "created_at": "2026-10-21 05:34:25.823019"
+  },
+  {
+    "id": 14,
+    "lens_type": "Single Vision",
+    "lens_product": "Poly Blue Steel Blue Coat ",
+    "starting_price": 1050.0,
+    "lens_image": "lens_3a0fbcb5a1d8483ab539fd52838c56c4.jpg",
+    "features": "-6.00/-2.00\t\tRs. 1050\n-8.00/-2.00\t\tRs. 1250\n+1.75/-2.00, +3.00/+1.00\tRs. 1300\n-6.00/-4.00\t\tRs. 1400\n+3.75/-4.00\t\tRs. 1750\n",
+    "created_at": "2026-10-21 05:48:27.156870"
+  },
+  {
+    "id": 15,
+    "lens_type": "Single Vision",
+    "lens_product": "Poly Twin Steel Dual Coat",
+    "starting_price": 1200.0,
+    "lens_image": "lens_e0fb96f1284e43b3bab85eaa30dfe5f5.jpg",
+    "features": "-6.00/-2.00\t\tRs. 1200\n-8.00/-2.00\t\tRs. 1500\n+1.75/-2.00, +3.00/+1.00\tRs. 1450\n-6.00/-4.00\t\tRs. 1650\n+3.75/-4.00\t\tRs. 1950",
+    "created_at": "2026-10-21 05:52:34.394474"
+  },
+  {
+    "id": 16,
+    "lens_type": "Single Vision",
+    "lens_product": "Poly Magenta Night Drive Coat",
+    "starting_price": 1200.0,
+    "lens_image": "lens_cf12a5029e3144f0b5748b7494ec3fc7.jpg",
+    "features": "-6.00/-2.00\t\tRs. 1200\n-8.00/-2.00, -6.00/-4.00\tRs. 2100\n+3.00/+1.00\t\tRs. 2050",
+    "created_at": "2026-10-21 05:55:31.179144"
+  },
+  {
+    "id": 17,
+    "lens_type": "Single Vision",
+    "lens_product": "Poly Mari Blue Steel Blue Coat",
+    "starting_price": 1350.0,
+    "lens_image": "lens_4a21bfb3db2147ada2818eeb950678a3.jpg",
+    "features": "-6.00/-2.00\t\tRs. 1350\n-6.0/-4.0, -8.0/-2.0, -4.0 Cross\tRs. 1750\n+3.00/+1.00, Cross -2.00\tRs. 1950",
+    "created_at": "2026-10-21 05:58:56.136211"
+  },
+  {
+    "id": 18,
+    "lens_type": "Single Vision",
+    "lens_product": "Poly Mari Gold",
+    "starting_price": 1400.0,
+    "lens_image": "lens_40e47138bae14d00b8b204eaa412a292.jpg",
+    "features": "-6.00/-2.00\t\tRs. 1400\n-8.00/-2.00, -6.00/-4.00\tRs. 2200\n+3.00/+1.00\t\tRs. 2150",
+    "created_at": "2026-10-21 06:00:57.206496"
+  },
+  {
+    "id": 19,
+    "lens_type": "Single Vision",
+    "lens_product": "PG HC 1.56",
+    "starting_price": 600.0,
+    "lens_image": "lens_56d6f3ee14f6468bb1b8693da05d0cf7.jpg",
+    "features": "-8.00/-2.00\t\tRs. 600\n+4.0/+2.0, +1.75/-2.0\tRs. 800\n-8.0/-4.0, +3.50/-4.0\tRs. 1000\t\n-10.0/-2.0\t\tRs. 1200\n-6.0/-6.0, +5.50/-6.00\tRs. 1600\n-14.00/-2.00\t\tRs. 1800",
+    "created_at": "2026-10-22 05:04:42.473473"
+  },
+  {
+    "id": 20,
+    "lens_type": "Single Vision",
+    "lens_product": "PG HMC Green Coat",
+    "starting_price": 800.0,
+    "lens_image": "lens_2738e253376448419b53f657b90e94c3.jpg",
+    "features": "-8.00/-2.00\t\tRs. 800\n+4.0/+2.0, +1.75/-2.0\tRs. 1000\n-8.0/-4.0, +3.50/-4.0\tRs. 1200\t\n-10.0/-2.0\t\tRs. 1500\n-6.0/-6.0, +5.50/-6.00\tRs. 1900\n-14.00/-2.00\t\tRs. 2100",
+    "created_at": "2026-10-22 05:15:11.496373"
+  },
+  {
+    "id": 21,
+    "lens_type": "Single Vision",
+    "lens_product": "PG HMC Blue Coat",
+    "starting_price": 1100.0,
+    "lens_image": "lens_414478f0ffe54abab5903d3e8d9251b3.jpg",
+    "features": "-6.00/-2.00\t\tRs. 1100\n+3.00/+1.00, +1.75/-2.00\tRs. 1300\n-6.00/-4.00\t\tRs. 1600\n+3.50/-4.00\t\tRs. 1900\n",
+    "created_at": "2026-10-22 05:40:50.677629"
+  },
+  {
+    "id": 22,
+    "lens_type": "Single Vision",
+    "lens_product": "Optimax PG Blue Cut Green",
+    "starting_price": 1400.0,
+    "lens_image": "lens_f1dee00558da4f8d80ac18d65d6b747a.jpg",
+    "features": "-6.00/-2.00\t\tRs. 1400\n-8.00/-2.00\t\tRs. 1600\n+1.75/-2.00, +3.00/+1.00\tRs. 1750\n-6.00/-4.00\t\tRs. 1950\n+3.75/-4.00\t\tRs. 2100",
+    "created_at": "2026-10-22 05:45:52.060792"
+  },
+  {
+    "id": 23,
+    "lens_type": "Single Vision",
+    "lens_product": "Optimax PG Blue Cut Blue",
+    "starting_price": 1600.0,
+    "lens_image": "lens_57f42e17f30143ff9c45bfc590431ebd.jpg",
+    "features": "-6.00/-2.00\t\tRs. 1600\n-8.00/-2.00\t\tRs. 1750\n+1.75/-2.00, +3.00/+1.00\tRs. 1950\n-6.00/-4.00\t\tRs. 2150\n+3.75/-4.00\t\tRs. 2300",
+    "created_at": "2026-10-22 05:47:01.154525"
+  },
+  {
+    "id": 24,
+    "lens_type": "Single Vision",
+    "lens_product": "Optimax PG Blue Cut Mari Blue",
+    "starting_price": 1700.0,
+    "lens_image": "lens_236b0871d43b4fcdbbd7f941bc61fdd2.jpg",
+    "features": "-6.00/-2.00\t\tRs. 1700\n-8.00/-2.00\t\tRs. 1900\n+1.75/-2.00, +3.00/+1.00\tRs. 2200\n-6.00/-4.00, Cross -4.00\tRs. 2600",
+    "created_at": "2026-10-22 05:54:04.489216"
+  },
+  {
+    "id": 25,
+    "lens_type": "Single Vision",
+    "lens_product": "Optimax PG Blue Cut Gold",
+    "starting_price": 1800.0,
+    "lens_image": "lens_d96642ee5e6842d08152d5b5fd6316d3.jpg",
+    "features": "-6.00/-2.00\t\tRs. 1800\n-8.00/-2.00\t\tRs. 2000\n-6.00/-4.00\t\tRs. 2400\n+3.00/+1.00\t\tRs. 2100",
+    "created_at": "2026-10-22 05:56:51.887124"
+  },
+  {
+    "id": 26,
+    "lens_type": "Single Vision",
+    "lens_product": "Optimax PG Night Drive Magenta",
+    "starting_price": 3100.0,
+    "lens_image": "lens_5b47231ed6834425a419871f8a60c93c.jpg",
+    "features": "-10.00/-2.00\t\tRs. 3100\n+3.00 Sph, +2.00 Cyl\n+2.00/+1.00\nCross -2.00\t",
+    "created_at": "2026-10-22 06:09:24.170944"
+  },
+  {
+    "id": 27,
+    "lens_type": "Single Vision",
+    "lens_product": "Chroma PG 1.67 Mari Blue",
+    "starting_price": 3800.0,
+    "lens_image": "lens_fd61ff4387bc4507b4db1381e644a8d9.jpg",
+    "features": "-10.00/-2.00\t\tRs. 3800\n-15.00 Sph, -12.00/-2.00\tRs. 4300\n-10.00/-4.00\t\tRs. 5300\n-20.00 Sph, -16.00/-2.00\tRs. 7500\n-14.00/-4.00\t\tRs. 8100",
+    "created_at": "2026-10-22 06:14:04.168236"
+  },
+  {
+    "id": 28,
+    "lens_type": "Bifocal KT",
+    "lens_product": "HC KT 1.56",
+    "starting_price": 450.0,
+    "lens_image": "lens_f0fc0fe77f6e4b52a130eb1b95f90cc0.jpg",
+    "features": "Sph +3.00, -3.00\tRs. 450\nSph -+5.00, ++, -+6.00\tRs. 600\nCyl +4.00x180, -4.00/90\tRs. 600\nRev.Cyl +4.00/90, -4.00/180\tRs. 700\nSpl. Cyl +4.00Cyl, -4.00 Cyl\tRs. 800\n+4.0/+1.0, +3.0/+2.0   x180\tRs. 800\n-5.0/-1.0, -3.0/-2.0, -2.0/-4.00\tRs. 900\n+3.0/+1.0, +2.0/+2.0\tRs. 800\n-3.0/-1.0, -2.0/-2.0\tRs. 800\nCC +3.50/-4.00\t x 90\tRs. 1000\nCC +2.50/-3.00  x180\tRs. 1000\nCC +1.75/-2.00\t  x 45, 135\tRs. 1000\n",
+    "created_at": "2026-10-26 10:29:38.302460"
+  },
+  {
+    "id": 29,
+    "lens_type": "Bifocal KT",
+    "lens_product": "Blue Cut HMC Green KT",
+    "starting_price": 600.0,
+    "lens_image": "lens_5adc97f4fdbe42a495421b231bed9be2.jpg",
+    "features": "Sph +3.00, -3.00\tRs. 600\nSph -+4.00, -+5.00\tRs. 800\nCyl +3.00x180, -3.00x90\tRs. 900\nRev.Cyl +3.0x90, -3.0x180\tRs. 1100\nSpl.Cyl +3.00, -3.00 \tRs. 1200\nComp. +3.0/+1.0, +2.0/+2.0\tRs. 1100\nComp. -3.0/-1.0, -2.0/-2.0\tRs. 1200\nCC +2.50/-3.00\t x 90\tRs. 1400\n\n",
+    "created_at": "2026-10-26 10:36:11.245063"
+  },
+  {
+    "id": 30,
+    "lens_type": "Bifocal KT",
+    "lens_product": "Invisio Blue Cut Blue Coat KT",
+    "starting_price": 1100.0,
+    "lens_image": "lens_eb2999a2a65a49a6b022dbe609056c2e.jpg",
+    "features": "Sph +3.00\t\tRs. 1100\nSph -3.00\t\tRs. 1200\nAdd. +1.00 to +3.00",
+    "created_at": "2026-10-26 10:38:28.177538"
+  },
+  {
+    "id": 31,
+    "lens_type": "Bifocal KT",
+    "lens_product": "Blue Cut HMC Blue KT",
+    "starting_price": 900.0,
+    "lens_image": "lens_15e2e060768f40d8bc707f662a428baa.jpg",
+    "features": "Sph +3.00\t\tRs. 900\nSph -3.00\t\tRs. 1100\nCyl +2.00x180, -2.00x90\tRs. 1200\nRev. Cyl +2.0x90, -2.0x180\tRs. 1300\n\n",
+    "created_at": "2026-10-26 10:43:10.482902"
+  }
+]
